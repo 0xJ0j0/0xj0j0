@@ -11,7 +11,7 @@ t=""/></p>
 - 💻 Currently in my third year of Networks & Computing
 - 🚧 I'm looking to collaborate on an **IT project**
 - 🔨 All of my projects are available at [https://github.com/0xj0j0](https://github.com/0xj0j0?tab=repositories)
-- 📧 Contact me by Discord : **djxxrd**
+- 📧 Contact me by Discord : **djxrd**
 
 # Languages and Tools 🛠️
 <div>
